@@ -1,0 +1,5 @@
+FileName, CommitSha
+AnalyticsRules/Log4j vulnerability exploit.json,91917d9c313c783a8a6d202b9176fffabd28c98f
+Azure Diagnostic settings removed from a resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
+AnalyticsRules/Audit_Log_Data_Deletion.json,8918ebf5d0462558bf6ab1b83f9c51e7fd0b1729
+
